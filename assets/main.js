@@ -369,7 +369,7 @@ const I18N = {
     'msg.resultBody': 'If your mail app did not open, please send it to:',
 
     'footer.tagline': 'Cosmetics tube filling · skincare · hair & body care OEM/ODM',
-    'footer.stat': 'pcs / day max output · MOQ from 3,000 pcs',
+    'footer.stat': 'pcs / day max output · MOQ 3,000+',
     'footer.company': 'Company',
     'footer.c1.k': 'Company',
     'footer.c1.v': 'ARIEL GLOBAL Co., Ltd.',
